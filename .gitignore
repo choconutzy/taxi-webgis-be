@@ -1,0 +1,9 @@
+static/
+*.sqlite3
+*.pyc
+.idea
+venv
+.DS_Store
+.vscode/
+.env
+.coverage
